@@ -17,7 +17,10 @@
 
 ---
 
-## 🎉 **Hobbies outside the lab**
+## 🎉 **Hobbies outside of the lab**
 * Basketball 🏀  
 * Cooking 👨🏻‍🍳  
-* Movies and shows 🎥  
+* Movies and shows 🎥 
+
+## Windows
+
